@@ -3,5 +3,6 @@
   <component name="Encoding" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/PatternStudy1st" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PatternStudy2nd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PatternStudy2nd/src/main/java/cn/com/weizhen/factory/sqlhelper/DataBaseCmd.java" charset="UTF-8" />
   </component>
 </project>
